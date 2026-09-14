@@ -17,12 +17,6 @@ I build complex hardware systems from first principles, turning difficult techni
 
 **Ph.D., Carnegie Mellon University · RF & mixed-signal at Broadcom & Intel · Co-founder at iSono Health**
 
-## Selected Publications
-
-- *Automatic 3D Segmentation and Longitudinal Volumetric Measurement of Breast Lesions for Automated Breast Ultrasound Images* — IEEE UltraCon, 2024
-- *Deep Learning Resolution Enhancement Algorithm for Automated Breast Ultrasound* — AIUM UltraCon / Journal of Ultrasound in Medicine, 2023
-- *Classification of 2D Handheld Breast Ultrasound Images Using Convolutional Neural Networks* — C-MIMI by SIIM, 2020
-
 ## Links
 
 [Website](https://shadisaberi.com) · [LinkedIn](https://www.linkedin.com/in/ssaberig)
