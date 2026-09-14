@@ -1,49 +1,28 @@
-# Hi, I'm Shadi Saberi 👋
+# Shadi Saberi, Ph.D.
 
-**Electrical & Systems Engineer | RF / Analog | Ultrasound | Embedded Systems | Deep Tech**
+**Electrical & Systems Engineer**
 
-I'm an electrical engineer and technical founder working across mixed-signal electronics, sensing, embedded systems, medical imaging, and system architecture.
+I build complex hardware systems from first principles, turning difficult technical concepts into working products.
 
-I co-founded **iSono Health**, where I helped take a wearable robotic 3D ultrasound system from early concept through electrical and system design, integration, clinical studies, FDA 510(k) clearance, manufacturing, and commercial deployment.
+**RF / Analog · Mixed-Signal Electronics · Millimeter Wave · Wireless · Ultrasound · Embedded Systems · Robotics · Signal Processing · AI**
 
-Before iSono Health, I worked on **RF and mixed-signal IC design** at Broadcom and Intel and completed my Ph.D. in Electrical & Computer Engineering at Carnegie Mellon University.
+## Selected Work
 
-## Engineering Interests
-
-RF & analog electronics • mixed-signal systems • sensing • ultrasound • FPGA & embedded systems • signal processing • medical imaging • robotics • neurotechnology • physical AI
-
-## Selected Areas of Work
-
-### Hardware & System Architecture
-System architecture, mixed-signal PCB design, RF signal chains, power, sensing, motor control, FPGA integration, communications, hardware bring-up, characterization, and root-cause debugging.
-
-### Ultrasound & Medical Imaging
-Automated ultrasound acquisition, signal and image processing, 3D reconstruction, visualization, medical-device development, and system integration.
-
-### Machine Learning
-Medical-image detection, segmentation, classification, image enhancement, and longitudinal volumetric analysis.
-
-### RF & Mixed-Signal ICs
-RF receivers, frequency synthesis, clocking, high-speed mixed-signal circuits, and transistor-level CMOS design.
-
-## Currently Exploring
-
-I'm especially interested in engineering problems at the intersection of **hardware + sensing + computation**, including intelligent medical devices, neurotechnology, robotics, human-machine interfaces, and physical AI.
-
-## Selected Publications
-
-- Automatic 3D Segmentation and Longitudinal Volumetric Measurement of Breast Lesions for Automated Breast Ultrasound Images — IEEE UltraCon, 2024
-- Deep Learning Resolution Enhancement Algorithm for Automated Breast Ultrasound — AIUM UltraCon / Journal of Ultrasound in Medicine, 2023
-- Classification of 2D Handheld Breast Ultrasound Images Using Convolutional Neural Networks — C-MIMI by SIIM, 2020
+- **Wearable robotic 3D ultrasound** — system architecture, mixed-signal electronics, FPGA integration, motion control, embedded systems, sensing, communications, verification, manufacturing, and deployment.
+- **RF & mixed-signal IC design** — Wi-Fi receiver architectures, millimeter-wave frequency synthesis, clocking, high-speed equalizers, and time-to-digital conversion.
+- **Ultrasound imaging pipeline** — RF data acquisition, B-mode conversion, signal and image processing, 3D reconstruction, visualization, and longitudinal analysis.
+- **AI for breast ultrasound** — lesion detection, segmentation, classification, image enhancement, and longitudinal volumetric measurement.
 
 ## Background
 
-**Ph.D., Electrical & Computer Engineering — Carnegie Mellon University**
+**Ph.D., Carnegie Mellon University · RF & mixed-signal at Broadcom & Intel · Co-founder at iSono Health**
 
-Former RF/mixed-signal IC engineer at **Broadcom** and **Intel**
+## Selected Publications
 
-Co-founder of **iSono Health**
+- *Automatic 3D Segmentation and Longitudinal Volumetric Measurement of Breast Lesions for Automated Breast Ultrasound Images* — IEEE UltraCon, 2024
+- *Deep Learning Resolution Enhancement Algorithm for Automated Breast Ultrasound* — AIUM UltraCon / Journal of Ultrasound in Medicine, 2023
+- *Classification of 2D Handheld Breast Ultrasound Images Using Convolutional Neural Networks* — C-MIMI by SIIM, 2020
 
-📍 San Francisco Bay Area
+## Links
 
-🌐 [shadisaberi.com](https://shadisaberi.com)
+[Website](https://shadisaberi.com) · [LinkedIn](https://www.linkedin.com/in/ssaberig)
